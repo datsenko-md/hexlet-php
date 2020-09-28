@@ -22,3 +22,11 @@
 * `cd hexlet-php`
 * `make install`
 * `make test`
+
+---
+
+### Содержание
+
+* [Основы](src/Basics)
+    * [Испытания](src/Basics/Challenges)
+        * [Добавляем цифры](src/Basics/Challenges/AddDigits)
