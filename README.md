@@ -34,3 +34,4 @@
         * [Сумма двоичных чисел](src/Basics/Challenges/BinarySum)
         * [Фибоначчи](src/Basics/Challenges/Fib)
         * [Сбалансированные скобки](src/Basics/Challenges/IsBalanced)
+        * [Счастливый билет](src/Basics/Challenges/IsHappy)
