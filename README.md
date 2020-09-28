@@ -37,3 +37,6 @@
         * [Счастливый билет](src/Basics/Challenges/IsHappy)
         * [Совершенные числа](src/Basics/Challenges/IsPerfect)
         * [Степень тройки](src/Basics/Challenges/IsPowerOfThree)
+* [Массивы](src/Arrays)
+    * [Уроки](src/Arrays/Lessons)
+        * [Добавить префикс](src/Arrays/Lessons/AddPrefix)
