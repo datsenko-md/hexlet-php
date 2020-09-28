@@ -36,7 +36,8 @@
             "src/Basics/Challenges/IsPerfect/IsPerfect.php",
             "src/Basics/Challenges/IsPowerOfThree/IsPowerOfThree.php",
             "src/Arrays/Lessons/AddPrefix/AddPrefix.php",
-            "src/Arrays/Lessons/BubbleSort/BubbleSort.php"
+            "src/Arrays/Lessons/BubbleSort/BubbleSort.php",
+            "src/Arrays/Lessons/BuildDefinitionList/BuildDefinitionList.php"
         ]
     },
     "scripts": {
