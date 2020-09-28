@@ -33,3 +33,4 @@
         * [ФиззБазз](src/Basics/Challenges/FizzBuzz)
         * [Сумма двоичных чисел](src/Basics/Challenges/BinarySum)
         * [Фибоначчи](src/Basics/Challenges/Fib)
+        * [Сбалансированные скобки](src/Basics/Challenges/IsBalanced)
