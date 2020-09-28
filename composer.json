@@ -29,7 +29,8 @@
         "files": [
             "src/Basics/Challenges/AddDigits/AddDigits.php",
             "src/Basics/Challenges/FizzBuzz/FizzBuzz.php",
-            "src/Basics/Challenges/BinarySum/BinarySum.php"
+            "src/Basics/Challenges/BinarySum/BinarySum.php",
+            "src/Basics/Challenges/Fib/Fib.php"
         ]
     },
     "scripts": {
