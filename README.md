@@ -36,3 +36,4 @@
         * [Сбалансированные скобки](src/Basics/Challenges/IsBalanced)
         * [Счастливый билет](src/Basics/Challenges/IsHappy)
         * [Совершенные числа](src/Basics/Challenges/IsPerfect)
+        * [Степень тройки](src/Basics/Challenges/IsPowerOfThree)

@@ -33,7 +33,8 @@
             "src/Basics/Challenges/Fib/Fib.php",
             "src/Basics/Challenges/IsBalanced/IsBalanced.php",
             "src/Basics/Challenges/IsHappy/IsHappy.php",
-            "src/Basics/Challenges/IsPerfect/IsPerfect.php"
+            "src/Basics/Challenges/IsPerfect/IsPerfect.php",
+            "src/Basics/Challenges/IsPowerOfThree/IsPowerOfThree.php"
         ]
     },
     "scripts": {
