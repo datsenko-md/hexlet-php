@@ -40,3 +40,4 @@
 * [Массивы](src/Arrays)
     * [Уроки](src/Arrays/Lessons)
         * [Добавить префикс](src/Arrays/Lessons/AddPrefix)
+        * [Сортировка пузырьком](src/Arrays/Lessons/BubbleSort)
