@@ -43,3 +43,4 @@
         * [Сортировка пузырьком](src/Arrays/Lessons/BubbleSort)
         * [Список определений](src/Arrays/Lessons/BuildDefinitionList)
         * [Список](src/Arrays/Lessons/BuildList)
+        * [Есть ли в массиве символ](src/Arrays/Lessons/FieldCheck)

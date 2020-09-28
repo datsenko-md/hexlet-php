@@ -38,7 +38,8 @@
             "src/Arrays/Lessons/AddPrefix/AddPrefix.php",
             "src/Arrays/Lessons/BubbleSort/BubbleSort.php",
             "src/Arrays/Lessons/BuildDefinitionList/BuildDefinitionList.php",
-            "src/Arrays/Lessons/BuildList/BuildList.php"
+            "src/Arrays/Lessons/BuildList/BuildList.php",
+            "src/Arrays/Lessons/FieldCheck/FieldCheck.php"
         ]
     },
     "scripts": {
