@@ -31,3 +31,4 @@
     * [Испытания](src/Basics/Challenges)
         * [Добавляем цифры](src/Basics/Challenges/AddDigits)
         * [ФиззБазз](src/Basics/Challenges/FizzBuzz)
+        * [Сумма двоичных чисел](src/Basics/Challenges/BinarySum)
