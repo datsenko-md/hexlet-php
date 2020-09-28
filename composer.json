@@ -27,7 +27,8 @@
             "Tests\\": "tests/"
         },
         "files": [
-            "src/Basics/Challenges/AddDigits/AddDigits.php"
+            "src/Basics/Challenges/AddDigits/AddDigits.php",
+            "src/Basics/Challenges/FizzBuzz/FizzBuzz.php"
         ]
     },
     "scripts": {
