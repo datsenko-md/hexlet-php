@@ -46,7 +46,15 @@
             "src/Arrays/Lessons/CheckIfBalanced/CheckIfBalanced.php",
             "src/Arrays/Lessons/CountUniqChars/CountUniqChars.php",
             "src/Arrays/Lessons/FindIndex/FindIndex.php",
-            "src/Arrays/Lessons/GetElementIfExists/GetElementIfExists.php"
+            "src/Arrays/Lessons/GetElementIfExists/GetElementIfExists.php",
+            "src/Arrays/Lessons/GetIndexOfWarmestDay/GetIndexOfWarmestDay.php",
+            "src/Arrays/Lessons/GetIntersectionOfSortedArray/GetIntersectionOfSortedArray.php",
+            "src/Arrays/Lessons/GetSameCount/GetSameCount.php",
+            "src/Arrays/Lessons/GetSameParity/GetSameParity.php",
+            "src/Arrays/Lessons/IsContinuousSequence/IsContinuousSequence.php",
+            "src/Arrays/Lessons/MakeCensored/MakeCensored.php",
+            "src/Arrays/Lessons/ReverseArray/ReverseArray.php",
+            "src/Arrays/Lessons/SwapElementsInArray/SwapElementsInArray.php"
         ]
     },
     "scripts": {
