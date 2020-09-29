@@ -70,7 +70,12 @@
             "src/AssociativeArrays/Lessons/GetSortedNames/GetSortedNames.php",
             "src/AssociativeArrays/Lessons/GetWordsCount/GetWordsCount.php",
             "src/AssociativeArrays/Lessons/Map/Map.php",
-            "src/AssociativeArrays/Lessons/Pick/Pick.php"
+            "src/AssociativeArrays/Lessons/Pick/Pick.php",
+            "src/AssociativeArrays/Challenges/BuildQueryString/BuildQueryString.php",
+            "src/AssociativeArrays/Challenges/FindWhere/FindWhere.php",
+            "src/AssociativeArrays/Challenges/FromPairs/FromPairs.php",
+            "src/AssociativeArrays/Challenges/ToRna/ToRna.php"
+
         ]
     },
     "scripts": {

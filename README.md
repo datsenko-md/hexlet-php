@@ -77,3 +77,8 @@
         * [Подсчёт слов](src/AssociativeArrays/Lessons/GetWordsCount)
         * [Отображение](src/AssociativeArrays/Lessons/Map)
         * [Извлечение](src/AssociativeArrays/Lessons/Pick)
+    * [Испытания](src/AssociativeArrays/Challenges)
+        * [](src/AssociativeArrays/Challenges/BuildQueryString)
+        * [](src/AssociativeArrays/Challenges/FindWhere)
+        * [](src/AssociativeArrays/Challenges/FromPairs)
+        * [](src/AssociativeArrays/Challenges/ToRna)
