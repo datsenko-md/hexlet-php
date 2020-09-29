@@ -40,7 +40,8 @@
             "src/Arrays/Lessons/BuildDefinitionList/BuildDefinitionList.php",
             "src/Arrays/Lessons/BuildList/BuildList.php",
             "src/Arrays/Lessons/FieldCheck/FieldCheck.php",
-            "src/Arrays/Lessons/CalculateAverage/CalculateAverage.php"
+            "src/Arrays/Lessons/CalculateAverage/CalculateAverage.php",
+            "src/Arrays/Lessons/CalculateMax/CalculateMax.php"
         ]
     },
     "scripts": {

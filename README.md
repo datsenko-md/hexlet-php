@@ -45,3 +45,4 @@
         * [Список](src/Arrays/Lessons/BuildList)
         * [Есть ли в массиве символ](src/Arrays/Lessons/FieldCheck)
         * [Подсчет среднего](src/Arrays/Lessons/CalculateAverage)
+        * [Подсчет максимального](src/Arrays/Lessons/CalculateMax)
