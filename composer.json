@@ -54,7 +54,16 @@
             "src/Arrays/Lessons/IsContinuousSequence/IsContinuousSequence.php",
             "src/Arrays/Lessons/MakeCensored/MakeCensored.php",
             "src/Arrays/Lessons/ReverseArray/ReverseArray.php",
-            "src/Arrays/Lessons/SwapElementsInArray/SwapElementsInArray.php"
+            "src/Arrays/Lessons/SwapElementsInArray/SwapElementsInArray.php",
+            "src/Arrays/Challenges/CalcInPolishNotation/CalcInPolishNotation.php",
+            "src/Arrays/Challenges/CompareVersion/CompareVersion.php",
+            "src/Arrays/Challenges/GeneratePascalTriangleString/GeneratePascalTriangleString.php",
+            "src/Arrays/Challenges/GetChunked/GetChunked.php",
+            "src/Arrays/Challenges/GetMirrorMatrix/GetMirrorMatrix.php",
+            "src/Arrays/Challenges/HammingWeight/HammingWeight.php",
+            "src/Arrays/Challenges/LengthOfLastWord/LengthOfLastWord.php",
+            "src/Arrays/Challenges/LongestLength/LongestLength.php",
+            "src/Arrays/Challenges/SummaryRanges/SummaryRanges.php"
         ]
     },
     "scripts": {
