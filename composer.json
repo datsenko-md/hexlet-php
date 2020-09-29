@@ -63,7 +63,14 @@
             "src/Arrays/Challenges/HammingWeight/HammingWeight.php",
             "src/Arrays/Challenges/LengthOfLastWord/LengthOfLastWord.php",
             "src/Arrays/Challenges/LongestLength/LongestLength.php",
-            "src/Arrays/Challenges/SummaryRanges/SummaryRanges.php"
+            "src/Arrays/Challenges/SummaryRanges/SummaryRanges.php",
+            "src/AssociativeArrays/Lessons/GenDiff/GenDiff.php",
+            "src/AssociativeArrays/Lessons/GetComposerFileData/GetComposerFileData.php",
+            "src/AssociativeArrays/Lessons/GetIn/GetIn.php",
+            "src/AssociativeArrays/Lessons/GetSortedNames/GetSortedNames.php",
+            "src/AssociativeArrays/Lessons/GetWordsCount/GetWordsCount.php",
+            "src/AssociativeArrays/Lessons/Map/Map.php",
+            "src/AssociativeArrays/Lessons/Pick/Pick.php"
         ]
     },
     "scripts": {
