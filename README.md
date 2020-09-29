@@ -49,3 +49,4 @@
         * [Изменить массив](src/Arrays/Lessons/ChangeArray)
         * [Сбалансированные скобки](src/Arrays/Lessons/CheckIfBalanced)
         * [Подсчет уникальных символов](src/Arrays/Lessons/CountUniqChars)
+        * [Поиск индекса](src/Arrays/Lessons/FindIndex)
