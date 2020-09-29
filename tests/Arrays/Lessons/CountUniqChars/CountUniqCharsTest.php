@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Hexlet\Basics\Challenges;
+namespace Tests\Arrays\Lessons;
 
 use PHPUnit\Framework\TestCase;
 
