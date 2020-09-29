@@ -43,7 +43,8 @@
             "src/Arrays/Lessons/CalculateAverage/CalculateAverage.php",
             "src/Arrays/Lessons/CalculateMax/CalculateMax.php",
             "src/Arrays/Lessons/ChangeArray/ChangeArray.php",
-            "src/Arrays/Lessons/CheckIfBalanced/CheckIfBalanced.php"
+            "src/Arrays/Lessons/CheckIfBalanced/CheckIfBalanced.php",
+            "src/Arrays/Lessons/CountUniqChars/CountUniqChars.php"
         ]
     },
     "scripts": {
