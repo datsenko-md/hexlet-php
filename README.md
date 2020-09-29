@@ -47,3 +47,4 @@
         * [Подсчет среднего](src/Arrays/Lessons/CalculateAverage)
         * [Подсчет максимального](src/Arrays/Lessons/CalculateMax)
         * [Изменить массив](src/Arrays/Lessons/ChangeArray)
+        * [Сбалансированные скобки](src/Arrays/Lessons/CheckIfBalanced)
