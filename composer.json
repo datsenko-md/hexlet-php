@@ -45,7 +45,8 @@
             "src/Arrays/Lessons/ChangeArray/ChangeArray.php",
             "src/Arrays/Lessons/CheckIfBalanced/CheckIfBalanced.php",
             "src/Arrays/Lessons/CountUniqChars/CountUniqChars.php",
-            "src/Arrays/Lessons/FindIndex/FindIndex.php"
+            "src/Arrays/Lessons/FindIndex/FindIndex.php",
+            "src/Arrays/Lessons/GetElementIfExists/GetElementIfExists.php"
         ]
     },
     "scripts": {
