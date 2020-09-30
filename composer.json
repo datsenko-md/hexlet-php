@@ -75,7 +75,20 @@
             "src/AssociativeArrays/Challenges/BuildQueryString/BuildQueryString.php",
             "src/AssociativeArrays/Challenges/FindWhere/FindWhere.php",
             "src/AssociativeArrays/Challenges/FromPairs/FromPairs.php",
-            "src/AssociativeArrays/Challenges/ToRna/ToRna.php"
+            "src/AssociativeArrays/Challenges/ToRna/ToRna.php",
+            "src/Functions/Lessons/Average/Average.php",
+            "src/Functions/Lessons/GetChildren/GetChildren.php",
+            "src/Functions/Lessons/GetDifference/GetDifference.php",
+            "src/Functions/Lessons/GetFreeDomainsCount/GetFreeDomainsCount.php",
+            "src/Functions/Lessons/GetGirlFriends/GetGirlFriends.php",
+            "src/Functions/Lessons/GetManWithLeastFriends/GetManWithLeastFriends.php",
+            "src/Functions/Lessons/GetMenCountByYear/GetMenCountByYear.php",
+            "src/Functions/Lessons/LastSym/LastSym.php",
+            "src/Functions/Lessons/SayPrimeOrNot/SayPrimeOrNot.php",
+            "src/Functions/Lessons/Slugify/Slugify.php",
+            "src/Functions/Lessons/TakeOldest/TakeOldest.php",
+            "src/Functions/Lessons/Union/Union.php",
+            "src/Functions/Lessons/Without/Without.php"
 
         ]
     },
